@@ -1,1 +1,28 @@
-{}
+{
+  "120363402724305841@g.us": {
+    "card": {
+      "id": "6812b98042888f005293e625",
+      "title": "Jeongmin Choi",
+      "detailUrl": "https://shoob.gg/cards/info/6812b98042888f005293e625",
+      "imageUrl": "https://cdn.shoob.gg/images/cards/3/7672bd7fcfcee30c6fa741c9dad6c9bdc0822387e3f22919a2077df13b21d703.png",
+      "tier": 3,
+      "series": "Dreaming Freedom",
+      "creators": [
+        "._orange."
+      ],
+      "owners": [
+        "0.azzy.0",
+        "notworking.",
+        "nahid07",
+        "Fusion",
+        "renryrr"
+      ],
+      "specialAttributes": [],
+      "wantCount": 0,
+      "price": 82168,
+      "claim": "%S65P^"
+    },
+    "timestamp": 1775157285559,
+    "claimCode": "%S65P^"
+  }
+}
